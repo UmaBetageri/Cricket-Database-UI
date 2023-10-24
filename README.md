@@ -13,3 +13,5 @@ Since the original cricket database is much more complex than this, this project
 ### Web Interface 
 
 I have created a web interface to interact with this database, which includes a welcome page, two forms and corresponding result pages for each form. Since this is a public sports database and accessible to all, users do not need a login page. Here I have not included a modified page to add data or alter data since the user does not have access to do this. However, I have taken all the major steps using session, procedures methods to secure the database from misuse (SQL Injections). 
+
+#### Note: These records in this database are not original; rather, they are created for the sole purpose of testing the queries and the web interface.
